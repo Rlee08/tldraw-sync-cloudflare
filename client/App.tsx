@@ -7,7 +7,7 @@ import { multiplayerAssetStore } from './multiplayerAssetStore'
 const WORKER_URL = process.env.TLDRAW_WORKER_URL
 
 // In this example, the room ID is hard-coded. You can set this however you like though.
-const roomId = 'test-room'
+const roomId = 'test-room2'
 
 function App() {
 	// Create a store connected to multiplayer.
